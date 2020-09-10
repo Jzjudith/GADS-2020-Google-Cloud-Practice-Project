@@ -1,0 +1,15 @@
+Google Africa Developer Scholarship Phase II
+Google Cloud Practice Project
+Timeline: Friday, Aug 28 - Friday, Sept 11 2020 
+
+Completed Labs
+	1. Getting started with Cloud Marketplace
+	2. Getting started with kubernetes engine
+	3. Getting started with app engine
+	4. VPC Networking
+	5. Creating Virtual Machines
+	6. Implement Private Google Access and Cloud NAT
+        7. Cloud IAM
+        8. Virtual Private Networks(VPN)
+        9. Configuring an HTTP Load Balancer with Autoscaling 
+        10. Creating Kubernetes Engine Deployments
